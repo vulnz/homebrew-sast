@@ -6,8 +6,8 @@ class Sast < Formula
   # The `sast` launcher from PyPI (pure-Python, zero deps). It downloads the
   # OS-matched SAST engine binary from insom.ai on first run, sha256-verified,
   # and caches it. Bump url+sha256 with scripts/update_formula.py on each release.
-  url "https://files.pythonhosted.org/packages/f1/57/565b6cbdfc3cae979df48f5b7b774079a15b9a632405b07fdbacb6af219f/sast-0.1.1.tar.gz"
-  sha256 "b713fe327fdeae2caa132b7538f80c0a04ab10a8f9e91ec20844ac885611aa66"
+  url "https://files.pythonhosted.org/packages/1e/46/67bd7185e5efea4814425ee89e7fc241095aabf3a864ca2de2b0b5025cd9/sast-1.5.0.tar.gz"
+  sha256 "a1dd1c7d989b0de748b469dd21aadcb4fe53b2b2aba7bc3436527128540b7cbc"
   license "MIT"
 
   depends_on "python@3.12"
