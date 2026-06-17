@@ -3,6 +3,9 @@
 Homebrew tap for **[sast](https://pypi.org/project/sast/)** — free, fast static
 application security testing for CI/CD.
 
+> **Benchmark:** 85.7% class recall on 31 vulnerable repos vs Semgrep 58.9%,
+> SonarQube 26.8%, Bandit 16.1% — [full head-to-head →](https://insom.ai/benchmark)
+
 ## Install
 
 ```bash
